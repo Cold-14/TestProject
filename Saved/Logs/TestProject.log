@@ -1188,3 +1188,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.01-22.52.57:549][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
 [2023.01.01-22.52.57:549][358]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
 [2023.01.01-22.53.16:606][551]LogSlate: Window 'Source Control Login' being destroyed
+[2023.01.01-22.54.14:484][196]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.01-22.54.14:496][196]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.01-22.54.16:208][402]LogContentBrowser: Attempting asset rename: NewFolder -> test
+[2023.01.01-22.54.16:208][402]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.01-22.54.19:216][703]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.01-22.54.19:255][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/test/pussy420" FILE="../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/test/pussy420.uasset" SILENT=true
+[2023.01.01-22.54.19:260][703]LogSavePackage: Moving '../../../../../../UE4 PROJECTS/TestProject/Saved/pussy42084BD018A44AB67CEFDC6FE96CD7D45FE.tmp' to '../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/test/pussy420.uasset'
+[2023.01.01-22.54.19:365][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/pussy420" FILE="../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/pussy420.uasset" SILENT=true
+[2023.01.01-22.54.19:366][703]LogSavePackage: Moving '../../../../../../UE4 PROJECTS/TestProject/Saved/pussy4208C7D6B0846E95319653837834AA91B40.tmp' to '../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/pussy420.uasset'
+[2023.01.01-22.54.19:529][703]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.01-22.54.19:529][703]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/pussy420.pussy420
+[2023.01.01-22.54.19:529][703]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/test/pussy420.pussy420
+[2023.01.01-22.54.25:698][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/test/pussy420" FILE="../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/test/pussy420.uasset" SILENT=true
+[2023.01.01-22.54.25:699][425]LogSavePackage: Moving '../../../../../../UE4 PROJECTS/TestProject/Saved/pussy4203276BA8244F99FFD54CDCC84036A5945.tmp' to '../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/test/pussy420.uasset'
+[2023.01.01-22.54.31:535][425]LogSlate: Window 'Submit Files' being destroyed
+[2023.01.01-22.54.31:716][425]LogSourceControl: commit successful: [master 848e2a1] adding pussy
+[2023.01.01-22.54.31:749][425]SourceControl: [master 848e2a1] adding pussy
+[2023.01.01-22.54.31:749][425]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.01.01-22.54.31:749][425]SourceControl:  create mode 100644 Content/FirstPersonBP/test/pussy420.uasset
+[2023.01.01-22.54.31:758][425]SourceControl: Commited [master 848e2a1] adding pussy.
+[2023.01.01-22.54.31:761][425]AssetCheck: New page: Asset Save: pussy420
+[2023.01.01-22.54.31:762][425]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/test/pussy420.pussy420
