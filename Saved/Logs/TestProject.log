@@ -2907,3 +2907,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.01-22.37.07:027][167]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
 [2023.01.01-22.37.07:027][167]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/1M_Cube.1M_Cube
 [2023.01.01-22.37.07:027][167]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.01-22.47.06:317][503]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.01.01-22.47.06:324][503]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.01.01-22.47.12:194][208]LogContentBrowser: Attempting asset rename: NewMaterial -> pussy420
+[2023.01.01-22.47.12:252][208]LogContentBrowser: End creating deferred item NewMaterial
+[2023.01.01-22.47.58:232][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/pussy420" FILE="../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/pussy420.uasset" SILENT=true
+[2023.01.01-22.47.58:236][335]LogSavePackage: Moving '../../../../../../UE4 PROJECTS/TestProject/Saved/pussy4201B5E85A54B20C53413DFC7A7E33EEB0E.tmp' to '../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/pussy420.uasset'
+[2023.01.01-22.47.58:451][335]AssetCheck: New page: Asset Save: pussy420
+[2023.01.01-22.47.58:451][335]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/pussy420.pussy420
+[2023.01.01-22.48.43:985][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.01.01-22.48.44:004][970]LogSavePackage: Moving '../../../../../../UE4 PROJECTS/TestProject/Saved/FirstPersonExampleMap38693FD7424C133845290299F536ACED.tmp' to '../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.01-22.48.44:457][970]LogSavePackage: Moving '../../../../../../UE4 PROJECTS/TestProject/Saved/FirstPersonExampleMap_BuiltData741FFBB5429472EFD0DF3A9D7182868E.tmp' to '../../../../../../UE4 PROJECTS/TestProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.01.01-22.48.44:465][970]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.01-22.48.44:465][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.01.01-22.48.44:465][970]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
