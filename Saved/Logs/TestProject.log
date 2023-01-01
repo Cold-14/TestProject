@@ -2921,3 +2921,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.01-22.48.44:465][970]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.01-22.48.44:465][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2023.01.01-22.48.44:465][970]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.01-22.49.08:879][341]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.01.01-22.49.08:888][341]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.01.01-22.49.10:824][574]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.01.01-22.49.10:885][574]LogContentBrowser: End creating deferred item NewMaterial
+[2023.01.01-22.49.12:014][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.01-22.49.12:870][704]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.01-22.49.12:945][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
